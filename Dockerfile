@@ -1,6 +1,6 @@
 #Dockerfile to build an image for running Selenium tests
 #Pull ubuntu 16.04 base image
-FROM ubuntu
+FROM ubuntu:20.10
 MAINTAINER Qxf2 Services
 
 # Essential tools and xvfb
