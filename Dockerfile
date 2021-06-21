@@ -1,6 +1,6 @@
 #Dockerfile to build an image for running Selenium tests
 #Pull ubuntu 16.04 base image
-FROM ubuntu
+FROM ubuntu:groovy-20210614
 MAINTAINER Qxf2 Services
 
 # Essential tools and xvfb
