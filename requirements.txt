@@ -1,7 +1,7 @@
 requests==2.9.1
 pytest==3.0.5
 selenium==3.4.3
-mechanize==0.2.5
+mechanize==0.4.6
 python_dotenv==0.8.2
 Appium_Python_Client==0.24
 dotenv==0.0.5
